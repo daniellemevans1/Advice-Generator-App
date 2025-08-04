@@ -1,7 +1,7 @@
 const buttonEl = document.querySelector("#icon-dice");
 const adviceIdEl = document.querySelector("#advice-id");
 const adviceEl = document.querySelector("#advice");
-console.log(adviceEl);
+
 
 buttonEl.addEventListener("click", getData);
 
